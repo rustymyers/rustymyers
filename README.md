@@ -18,6 +18,6 @@ Welcome to my GitHub repo! I'm an Endpoint Management Systems Administrator and 
 
 👨‍💻 Pronouns: He/Him
 
-🔭 I’m currently working on [ListsLists](ListsLists)
+🔭 I’m currently working on [https://github.com/rustymyers/ListsLists](https://github.com/rustymyers/ListsLists)
 
 📓 Check out the blog at [https://rustyisageek.blogspot.com](https://rustyisageek.blogspot.com)
