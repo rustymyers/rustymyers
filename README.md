@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub repo! I'm an Endpoint Management Systems Administrator and coder of 20 years in Higher Education.
+
+👨‍💻 Pronouns: He/Him
+
+🔭 I’m currently working on [ListsLists](ListsLists)
+
+📓 Check out the blog at [https://rustyisageek.blogspot.com](https://rustyisageek.blogspot.com)
